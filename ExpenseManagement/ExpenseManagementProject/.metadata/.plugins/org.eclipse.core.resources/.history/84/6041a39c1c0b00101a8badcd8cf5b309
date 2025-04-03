@@ -1,0 +1,5 @@
+package com.infosys.expenseManagementApplication.config;
+
+public class EncoderConfig {
+
+}
